@@ -1,7 +1,7 @@
 class Essentia < Formula
   desc "Library for audio analysis and audio-based music information retrieval"
   homepage "http://essentia.upf.edu"
-  head 'https://github.com/MTG/essentia.git'
+  head 'https://github.com/Viddi/essentia.git'
 
   include Language::Python::Virtualenv
 
